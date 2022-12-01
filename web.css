@@ -1,0 +1,434 @@
+
+.container
+{
+    width:1170px;
+	margin:0 auto;
+	padding:0 15px;
+	
+  }
+ .row
+ {
+	  display:flex;
+	  flex-wrap:wrap;
+	  margin-right:-15px;
+	  margin-left:-15px;
+	  margin-top:20px;
+	  margin-bottom:10px;
+	 
+}
+ .row >*
+ {
+	  width:100%;
+	  padding:0 15px;
+	
+	  
+ }
+ .co1-lg-1
+{
+	     width:8.33%;
+}
+.col-lg-2
+{
+	     width:16.66%;
+	
+}
+.col-lg-3
+{
+	     width:25%;
+		
+}
+  .col-lg-4
+    {
+	     width:33.33%;
+		 
+   }
+   .col-lg-5
+    {
+	     width:41.66%;
+		 
+	 }
+  .col-lg-6
+   {
+	  width:50%;
+	 
+   }
+   .col-lg-7
+   {
+	 width:58.33%;
+	 
+   }
+   .col-lg-8
+   {
+	 width:66.66%;
+	 
+   }
+  .col-lg-9
+   {
+	 width:75%;
+	
+   }
+   .col-lg-10
+   {
+	 width:83.33%;
+	 
+   }
+   .co1-lg-11
+   {
+	 width:91.66%;
+	 
+   }
+    .col-lg-12
+   {
+	 width:100%;
+	 
+   }
+  *{ box-sizing:border-box;
+    margin:0px;
+	padding:0px;
+	font-family: 'Anton', sans-serif;
+	
+  }  
+   .justify-space-between
+   {
+	   justify-content:justify-space-between  !important; 
+   }
+   .justify-content-start
+   {
+	  justify-content:flex-start !important;
+    }
+  .justify-content-end
+   {
+	  justify-content:flex-end !important;
+   }
+  .justify-content-space-between
+   {
+	justify-content:space-between !important;
+    }
+  .justify-content-space-around
+   {
+	justify-content:space-around !important;
+    }
+  .align-items-start
+      {
+	align-items:flex-start !important;
+    }	
+  .align-items-end
+    {
+	align-items:flex-end !important;
+     }
+ .align-items-center
+    {
+	align-items:center !important;
+    }
+   .align-items-baseline
+    {
+	align-items:baseline !important
+	}
+
+  .header
+  {
+	  background-color:black;
+	  
+	  /* height:80px; */
+	  
+  }
+.mc
+  {
+	   color:orange;
+	   font-size:26px;
+  }
+  a
+  {
+	  text-decoration:none;
+	  color:white;
+  }
+ 
+  .contact
+  {
+	 height:30px; 
+	 font-size:22px;
+}
+  .phn
+  {
+	  color:orange;
+	  margin-left:5px;
+  }
+  .no
+  {
+	  color:white;
+	  margin-left:2px;
+  }
+  
+  button
+  {
+	background-color:orange;
+	color:white;
+	padding:10px;
+	margin-left:160px;
+	height:100%;
+  }
+
+ .nav
+  {
+	   background-color:white;
+	  
+	  
+  }
+  .flexor
+  {
+	  font-size:25px;
+  }
+ 
+  .menubar
+  {
+	   display:flex;
+	   justify-content:flex-end;
+  }
+  .menus a
+  {
+	  display:block;
+	  text-decoration:none;
+	  color:brown;
+	  padding:9px 15px;
+	  font-size:14px;
+  }
+ li
+ { 
+ display:block;
+ }
+ .menus a:hover
+ {
+	  color:orange;
+ }
+ .menus a.active
+ {
+	color:orange;
+}
+
+ 
+	
+  .home
+  {
+	  background-color:black;
+  }
+  .twl
+  {
+	    background-color:orange;
+  }
+  .twlc
+  {
+	    background-color:black;
+		height:300px;
+  }
+  .hd
+  {
+	  background-color:orange;
+	  height:300px;
+	  position:relative;
+	  margin-top:-150px;
+	 
+  }
+  .op3
+	{
+		background-color:orange;
+		height:200px;
+		position:relative;
+	    margin-top:-80px
+		}
+	
+.about
+{
+	 background-color:gray;
+	 margin-top:20px;
+	/* height:600px; */
+}
+.imageab
+{
+	  background-color:orange;
+	  height:450px;
+	  margin-top:100px;
+	 
+	  
+}
+.aboutcon
+{
+	  background-color:orange;
+	  margin-top:100px;
+	  height:450px;
+}
+.client
+{
+	 background-color:black;
+	 padding:20px;
+	/* margin-top:20px; */
+	 
+}
+.i1
+{
+	 background-color:red;
+	 height:50px;
+}
+.service
+{
+	background-color:black;
+	  margin-top:60px;
+	/*  height:600px; */
+}
+.servicecnt
+{
+	  background-color:orange;
+	  height:40px;
+	  margin-top:50px;
+	  padding:30px;
+}
+.ss
+{
+	  background-color:orange;
+	  height:200px;
+	  
+}
+.serv1
+{
+	 background-color:black;
+	 margin-top:20px;
+}
+.b1
+{
+	background-color:orange;
+	height:200px;
+}
+.serv2
+{
+	 background-color:orange;
+	  margin-top:20px;
+}
+.em{
+	background-color:black;
+	height:200px;
+	margin-top:50px;
+	margin-bottom:30px;
+}
+.portfolio
+{
+    background-color:black;
+	padding:20px;
+	margin-top:20px;
+}
+.con
+{
+	background-color:orange;
+	height:100px;
+	padding:20px;
+}
+.team
+{
+	 background-color:orange;
+	 margin-top:20px;
+	 /* height:500px*/
+}
+.teamc
+{
+	  height:10px;
+	  background-color:black;
+	  padding:30px;
+	
+}
+.t1
+{
+	  height:200px;
+	 
+	  background-color:black;
+}
+.pric
+{
+	 background-color:black;
+	
+	/* height:900px; */
+}
+.pricc
+{
+	  height:150px;
+	  background-color:orange;
+	  margin-top:20px;
+	  
+}
+.p1
+{
+	  height:400px;
+	 
+	  background-color:orange;
+}
+.faq
+{
+	  /*  height:800px; */
+	   background-color:orange;
+	    
+}
+.m1
+{
+	  height:50px;
+	  background-color:black;
+	  
+}
+.s1
+{
+	 background-color:black;
+	 height:90px;
+	 
+}
+.form
+{ 
+      background-color:black;
+    
+    /* height:700px; */
+}
+.f1
+{
+	 background-color:orange;
+	
+	 height:40px;
+}
+.f2
+{
+	   background-color:orange;
+	  
+	   height:200px;
+}
+.f3
+{
+	   background-color:orange;
+	   height:400px;
+}
+.footer
+{
+    background-color:orange;
+   /* height:400px; */
+     
+}
+.fc
+{     
+     margin-top:50px;
+     background-color:black;
+     height:300px;
+    
+}
+.cpy
+{
+     background-color:black;
+	  /*height:80px; */
+}
+.cp1
+{
+	background-color:orange;
+    height:30px;
+	margin-top: 20px;
+
+}
+.cp2
+{
+	background-color:orange;
+    height:30px;
+	margin-top: 20px;	
+
+}
+   	
